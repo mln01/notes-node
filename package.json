@@ -7,9 +7,17 @@
   },
   "author": "milan",
   "license": "ISC",
-  "description": "",
+  "description": "A Console Notes Application made with Node.js",
   "dependencies": {
     "lodash": "^4.17.21",
     "yargs": "^17.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mln01/notes-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mln01/notes-node/issues"
+  },
+  "homepage": "https://github.com/mln01/notes-node#readme"
 }
