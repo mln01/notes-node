@@ -3,7 +3,6 @@ const _ = require('lodash');
 const yargs = require('yargs');
 
 const notes = require('./notes');
-const { title } = require('process');
 
 const titleOptions = {
     describe: 'Title of note',
